@@ -2,5 +2,10 @@
 #define MAIN_H
 
 #include <stdio.h>
+
 void positive_or_negative(int i);
-#endif
+nt largest_numbers(int a; int b; int c;);
+
+
+
+#endif /* MAIN_H */
